@@ -8,7 +8,7 @@
 
 - [x] Fullpage Library(JS/CSS)
 - [x] gsap Library(JS)
-
+- [ ] Responsive Desingn
 
 <br />
 <br />
