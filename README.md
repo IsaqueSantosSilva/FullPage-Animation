@@ -14,8 +14,3 @@
 <br />
 
 This is a webpage with full animation.
-
-<br />
-<br />
-
-Link to Prototype: 505
