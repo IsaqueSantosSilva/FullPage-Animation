@@ -2,32 +2,45 @@
 <html lang="en">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <link rel="stylesheet" href="assets/css/fullpage.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <title>Fullpage-Animation</title>
   </head>
 
   <body>
+
+    <!-- Header Start -->
     <header>
       <ul>
         <li>Home</li>
         <li>About</li>
         <li>Contact</li>
         <li>Login</li>
+        <li class="menu-icon"><ion-icon name="menu-sharp"></ion-icon></li>
       </ul>
     </header>
-    <div id="fullpage">
+    <!-- Header End -->
+
+    <!-- Main Content Start -->
+    <main id="fullpage">
+
+      <!-- Section 01 Start -->
       <section class="section s1">
         <h1>Home Decoration</h1>
       </section>
+      <!-- Section 01 End -->
+
+      <!-- Section 02 Start -->
       <section class="section s2">
         <h1>Different Styles</h1>
         <div class="description">
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non nam
-            inventore illum! Libero nisi optio consequuntur tenetur soluta
-            debitis
-          </p>
           <p>
             saepe eligendi, dicta velit at quod dolores asperiores facilis
             nostrum eius molestias et maxime earum? Tenetur nam magni quae
@@ -39,10 +52,16 @@
         <img src="assets/images/chair3.png" class="chair c1" />
         <img src="assets/images/chair1.png" class="chair c3" />
       </section>
+      <!-- Section 02 End -->
+
+      <!-- Section 03 Start -->
       <section class="section s3">
         <h1>Amazing Quality</h1>
       </section>
-    </div>
+      <!-- Section 03 End -->
+
+    </main>
+    <!-- Main Content End -->
 
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TimelineMax.min.js"
@@ -55,7 +74,17 @@
       crossorigin="anonymous"
     ></script>
 
+    <!-- Ionic icons Links -->
     <script src="assets/script/fullpage.min.js"></script>
     <script src="assets/script/script.js"></script>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
   </body>
 </html>
