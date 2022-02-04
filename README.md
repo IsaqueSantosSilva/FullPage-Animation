@@ -1,7 +1,8 @@
-# FullPage-Animation
+## FullPage Animation
 
 <br />
     Este é um projeto que fiz usando "Fullpage.js" para criar um site de uma única página com secções em tela cheia e roláveis.
+<br />
 <br />
 
 Link to prototype: [FullPageAnimatio.com](http://isaquesilva.infinityfreeapp.com/FullPage-Animation/)
