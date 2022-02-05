@@ -45,7 +45,7 @@ header ul li:hover {
 }
 
 .s1 {
-  background-image: url("../Images/bg1.webp");
+  background-image: url("../Images/bg1.png");
   background-size: cover;
   background-position: bottom;
 }
@@ -108,7 +108,7 @@ header ul li:hover {
 }
 
 .s3 {
-  background-image: url("../Images/bg2.webp");
+  background-image: url("../Images/bg2.png");
   background-position: center;
   background-size: cover;
 }
