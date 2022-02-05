@@ -2,7 +2,7 @@
 
 <br />
 
-Link to prototype: [FullPageAnimatio.com](https://isaquesantossilva.github.io/FullPage-Animation/)
+Protótipo: [FullPageAnimation.com](https://isaquesantossilva.github.io/FullPage-Animation/)
 
 <br />
 
